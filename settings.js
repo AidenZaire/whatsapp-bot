@@ -22,21 +22,21 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'ᴊɪɴᴡᴏᴏ-ʙᴏᴛ' 
+global.botname = process.env.BOT_NAME || 'ROSS' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '263780166288' 
+global.ownernumber = process.env.OWNER_NUMBER || '2349113604852' 
 
 //--------------------[ SUDO ]--------------------------//
 
-global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['263714757857', '263780934873'];
+global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['2349113604852', '2349044866812'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ' 
+global.ownername = process.env.OWNER_NAME || '♧' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
@@ -48,7 +48,7 @@ global.author = process.env.STICKER_AUTHOR_NAME || "sung"
 
 //-------------------[ BOT'S PREFIX ]--------------------//
 
-global.prefixz = process.env.BOT_PREFIX || '.'
+global.prefixz = process.env.BOT_PREFIX || '/'
 
 //-----------------[ BOT'S MODE ]-----------------------//
 
